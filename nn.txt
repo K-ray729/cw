@@ -1,0 +1,10 @@
+<node id=0 lat =1 lon =1 /node>
+<node id=12 lat =1 lon =1 /node>
+<node id=2 lat =1 lon =1 /node>
+<node id=8 lat =1 lon =1 /node>
+<node id=18 lat =1 lon =1 /node>
+<node id=14 lat =1 lon =1 /node>
+<node id=10 lat =1 lon =1 /node>
+<node id=1 lat =1 lon =1 /node>
+<node id=12 lat =1 lon =1 /node>
+<node id=9 lat =1 lon =1 /node>

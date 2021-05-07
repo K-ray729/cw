@@ -1,0 +1,16 @@
+                   node=0 node=12          length=36.9322 /link>
+                   node=2 node=8          length=785.777 /link>
+                   node=18 node=0          length=503.581 /link>
+                   node=8 node=12          length=707.04 /link>
+                   node=14 node=10          length=199.06 /link>
+                   node=10 node=14          length=199.06 /link>
+                   node=8 node=14          length=787.77 /link>
+                   node=2 node=1          length=74.9992 /link>
+                   node=12 node=0          length=36.9322 /link>
+                   node=1 node=2          length=74.9992 /link>
+                   node=1 node=9          length=596.639 /link>
+                   node=12 node=1          length=965.933 /link>
+                   node=9 node=0          length=152.395 /link>
+                   node=2 node=0          length=986.829 /link>
+                   node=12 node=8          length=707.04 /link>
+                   node=0 node=18          length=503.581 /link>
